@@ -1,1 +1,5 @@
 # mylivecamera
+
+##メンバー  
+
+*testmember
