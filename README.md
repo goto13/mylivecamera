@@ -3,3 +3,5 @@
 ##メンバー  
 
 *testmember
+
+*updateしてみるンゴ
